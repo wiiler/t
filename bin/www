@@ -23,7 +23,7 @@ const credentials = {
  */
 
 const SSLPORT = normalizePort(process.env.PORT || '443');
-const port = normalizePort(process.env.PORT || '80');
+const port = normalizePort(process.env.PORT || '8000');
 // app.set('port', port);
 
 /**
